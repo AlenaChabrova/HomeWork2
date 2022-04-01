@@ -6,7 +6,7 @@
 */
 class HomeWork2 {
     public static void main(String[] args)	{
-		System.out.println(task1(7, 7));
+	System.out.println(task1(7, 7));
 		task2(3);
 		task3(-3);
 		task4("Yes",7);
@@ -21,8 +21,7 @@ class HomeWork2 {
 	}  
 	
 	static void task2(int a) {
-		
-	    System.out.println(a >= 0? "Positive" : "Negative");
+		System.out.println(a >= 0? "Positive" : "Negative");
 	}
 
     static boolean task3( int a) {
